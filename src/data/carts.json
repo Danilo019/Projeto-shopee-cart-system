@@ -1,0 +1,153 @@
+{
+  "carts": [
+    {
+      "id": "68c49478-1289-4e28-9a11-d4c881bcfe34",
+      "userId": "test-user",
+      "items": [
+        {
+          "product": {
+            "id": "a48c607d-9837-4087-8edf-f4633f2451c6",
+            "name": "Smartphone Samsung Galaxy A54",
+            "price": 1299.99,
+            "finalPrice": 1169.991,
+            "category": "Eletrônicos",
+            "description": "Smartphone com tela de 6.4\", 128GB, câmera tripla 50MP",
+            "stock": 14,
+            "image": "",
+            "rating": 4.5,
+            "discount": 10,
+            "discountAmount": 129.99900000000002,
+            "createdAt": "2025-08-30T01:43:51.205Z",
+            "updatedAt": "2025-08-30T02:04:20.824Z"
+          },
+          "quantity": 1,
+          "subtotal": 1169.991,
+          "originalSubtotal": 1299.99,
+          "totalDiscount": 129.99900000000002,
+          "addedAt": "2025-08-30T01:43:51.208Z",
+          "updatedAt": "2025-08-30T01:43:51.208Z"
+        }
+      ],
+      "appliedCoupons": [],
+      "shippingAddress": null,
+      "shippingCost": 0,
+      "financialSummary": {
+        "originalSubtotal": 1299.99,
+        "productDiscounts": 129.99900000000002,
+        "subtotal": 1169.991,
+        "couponDiscounts": 0,
+        "shippingCost": 0,
+        "total": 1169.991,
+        "totalSavings": 129.99900000000002
+      },
+      "totalItems": 1,
+      "createdAt": "2025-08-30T01:43:51.207Z",
+      "updatedAt": "2025-08-30T01:43:51.208Z"
+    },
+    {
+      "id": "16936af8-8aba-4353-9ea6-986adae64bd5",
+      "userId": "user-default",
+      "items": [],
+      "appliedCoupons": [],
+      "shippingAddress": null,
+      "shippingCost": 0,
+      "financialSummary": {
+        "originalSubtotal": 0,
+        "productDiscounts": 0,
+        "subtotal": 0,
+        "couponDiscounts": 0,
+        "shippingCost": 0,
+        "total": 0,
+        "totalSavings": 0
+      },
+      "totalItems": 0,
+      "createdAt": "2025-08-30T01:43:56.793Z",
+      "updatedAt": "2025-08-30T01:43:56.793Z"
+    },
+    {
+      "id": "e1185af3-5559-4e88-9112-bc3fd6281d58",
+      "userId": "test-user",
+      "items": [
+        {
+          "product": {
+            "id": "a48c607d-9837-4087-8edf-f4633f2451c6",
+            "name": "Smartphone Samsung Galaxy A54",
+            "price": 1299.99,
+            "finalPrice": 1169.991,
+            "category": "Eletrônicos",
+            "description": "Smartphone com tela de 6.4\", 128GB, câmera tripla 50MP",
+            "stock": 14,
+            "image": "",
+            "rating": 4.5,
+            "discount": 10,
+            "discountAmount": 129.99900000000002,
+            "createdAt": "2025-08-30T01:43:51.205Z",
+            "updatedAt": "2025-08-30T02:04:20.824Z"
+          },
+          "quantity": 1,
+          "subtotal": 1169.991,
+          "originalSubtotal": 1299.99,
+          "totalDiscount": 129.99900000000002,
+          "addedAt": "2025-08-30T01:59:58.498Z",
+          "updatedAt": "2025-08-30T01:59:58.498Z"
+        }
+      ],
+      "appliedCoupons": [],
+      "shippingAddress": null,
+      "shippingCost": 0,
+      "financialSummary": {
+        "originalSubtotal": 1299.99,
+        "productDiscounts": 129.99900000000002,
+        "subtotal": 1169.991,
+        "couponDiscounts": 0,
+        "shippingCost": 0,
+        "total": 1169.991,
+        "totalSavings": 129.99900000000002
+      },
+      "totalItems": 1,
+      "createdAt": "2025-08-30T01:59:58.477Z",
+      "updatedAt": "2025-08-30T01:59:58.498Z"
+    },
+    {
+      "id": "6f9ac3ab-9137-48e2-a06d-9403c74c5f57",
+      "userId": "user-default",
+      "items": [],
+      "appliedCoupons": [],
+      "shippingAddress": null,
+      "shippingCost": 15.9,
+      "financialSummary": {
+        "originalSubtotal": 0,
+        "productDiscounts": 0,
+        "subtotal": 0,
+        "couponDiscounts": 0,
+        "shippingCost": 15.9,
+        "total": 15.9,
+        "totalSavings": 0
+      },
+      "totalItems": 0,
+      "createdAt": "2025-08-30T02:00:47.712Z",
+      "updatedAt": "2025-08-30T02:04:20.852Z"
+    },
+    {
+      "id": "b2e9d1e7-55e8-434b-a0db-8b20c140a662",
+      "userId": "user-default",
+      "items": [],
+      "appliedCoupons": [],
+      "shippingAddress": null,
+      "shippingCost": 0,
+      "financialSummary": {
+        "originalSubtotal": 0,
+        "productDiscounts": 0,
+        "subtotal": 0,
+        "couponDiscounts": 0,
+        "shippingCost": 0,
+        "total": 0,
+        "totalSavings": 0
+      },
+      "totalItems": 0,
+      "createdAt": "2025-08-30T02:04:20.930Z",
+      "updatedAt": "2025-08-30T02:04:20.930Z"
+    }
+  ],
+  "lastUpdated": "2025-08-30T02:04:20.930Z"
+}

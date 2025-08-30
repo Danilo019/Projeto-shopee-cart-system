@@ -1,0 +1,176 @@
+{
+  "coupons": [
+    {
+      "id": "b6cffb57-b6ba-4be4-9751-f454dc138a10",
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "minimumAmount": 50,
+      "expiryDate": "2025-09-06T01:43:51.209Z",
+      "usageLimit": 100,
+      "usageCount": 0,
+      "description": "Desconto de boas-vindas",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "WELCOME10 - 10% de desconto (mín. R$ 50.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "86e2b853-8902-4957-a567-6737ad827308",
+      "code": "FRETE20",
+      "type": "fixed",
+      "value": 20,
+      "minimumAmount": 100,
+      "expiryDate": "2025-09-06T01:43:51.209Z",
+      "usageLimit": 50,
+      "usageCount": 0,
+      "description": "Desconto no frete",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "FRETE20 - R$ 20.00 de desconto (mín. R$ 100.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "f0c80a42-2ce4-4799-8a40-fb7498524630",
+      "code": "MEGA50",
+      "type": "percentage",
+      "value": 50,
+      "minimumAmount": 200,
+      "expiryDate": "2025-08-31T01:43:51.209Z",
+      "usageLimit": 10,
+      "usageCount": 0,
+      "description": "Mega desconto limitado",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "MEGA50 - 50% de desconto (mín. R$ 200.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "bc5e862d-8c24-4bcd-a09f-67b997d35ce6",
+      "code": "SAVE15",
+      "type": "fixed",
+      "value": 15,
+      "minimumAmount": 0,
+      "expiryDate": null,
+      "usageLimit": null,
+      "usageCount": 0,
+      "description": "Desconto fixo sem restrições",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "SAVE15 - R$ 15.00 de desconto",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "d9fce372-8539-4c3a-b268-5de3402f87c3",
+      "code": "PRIMEIRA10",
+      "type": "percentage",
+      "value": 10,
+      "minimumAmount": 0,
+      "expiryDate": null,
+      "usageLimit": 1,
+      "usageCount": 0,
+      "description": "Desconto para primeira compra",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "PRIMEIRA10 - 10% de desconto",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "700b5476-a39a-45dd-95cb-2684cdab9ff0",
+      "code": "BLACKFRIDAY",
+      "type": "percentage",
+      "value": 30,
+      "minimumAmount": 150,
+      "expiryDate": "2024-12-31T00:00:00.000Z",
+      "usageLimit": 1000,
+      "usageCount": 0,
+      "description": "Black Friday 2024",
+      "isActive": true,
+      "status": {
+        "status": "expired",
+        "message": "Cupom expirado"
+      },
+      "displayText": "BLACKFRIDAY - 30% de desconto (mín. R$ 150.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "73157faf-dcd2-4a48-afdf-7d8512bb181b",
+      "code": "FRETEGRATIS",
+      "type": "fixed",
+      "value": 25,
+      "minimumAmount": 80,
+      "expiryDate": null,
+      "usageLimit": 500,
+      "usageCount": 0,
+      "description": "Frete grátis acima de R$ 80",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "FRETEGRATIS - R$ 25.00 de desconto (mín. R$ 80.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "88fb04f0-f7fc-4906-9f4e-a4b6be880ed0",
+      "code": "NATAL2024",
+      "type": "percentage",
+      "value": 20,
+      "minimumAmount": 100,
+      "expiryDate": "2024-12-25T00:00:00.000Z",
+      "usageLimit": 200,
+      "usageCount": 0,
+      "description": "Promoção de Natal",
+      "isActive": true,
+      "status": {
+        "status": "expired",
+        "message": "Cupom expirado"
+      },
+      "displayText": "NATAL2024 - 20% de desconto (mín. R$ 100.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    },
+    {
+      "id": "423d5b83-0fb0-424d-bdd7-f44e7facaacf",
+      "code": "VOLTA5",
+      "type": "fixed",
+      "value": 5,
+      "minimumAmount": 30,
+      "expiryDate": null,
+      "usageLimit": null,
+      "usageCount": 0,
+      "description": "Desconto volta às aulas",
+      "isActive": true,
+      "status": {
+        "status": "active",
+        "message": "Cupom válido e ativo"
+      },
+      "displayText": "VOLTA5 - R$ 5.00 de desconto (mín. R$ 30.00)",
+      "createdAt": "2025-08-30T01:43:51.209Z",
+      "updatedAt": "2025-08-30T01:43:51.209Z"
+    }
+  ],
+  "lastUpdated": "2025-08-30T01:43:51.209Z"
+}
